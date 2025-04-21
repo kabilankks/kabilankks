@@ -1,5 +1,7 @@
-## Hi there 👋
+## 👨‍💻Hello there I'm Kabilan, an IT Systems Admin👋
+I'm currently pursuing my degree with a strong passion for networking, system administration, and cloud computing. In my free time, I build homelab projects to experiment with virtualization, self-hosted services, and network automation.
 
+## 💻 Personal Projects 🖥️
 <!--
 **kabilankks/kabilankks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
