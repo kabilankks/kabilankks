@@ -7,8 +7,9 @@ I'm currently pursuing my degree with a strong passion for networking, system ad
 
 ## 💻 Past Projects 🖥️
 
-### • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" alt="AWS Logo" height="20" style="vertical-align: middle;"> Cloud Infrastructure Design
+### • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" alt="AWS Logo" height="20"> [Cloud Infrastructure Design](https://github.com/kabilankks/hosting-in-aws)
 I designed and implemented a complete cloud infrastructure on AWS to create a scalable and secure network architecture that supports both public and private services.
+### • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="Docker Logo" height="20"> [Setting Up Docker & Portainer on CentOS](https://github.com/kabilankks/hosting-in-aws) <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/portainer.svg" alt="Portainer Logo" height="20">
 <!--
 **kabilankks/kabilankks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
