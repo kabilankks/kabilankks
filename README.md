@@ -1,23 +1,14 @@
-<h2>👨‍💻Hello there I'm Kabilan, an IT Systems Admin👋</h2>
-<p>
-I'm currently pursuing my degree with a strong passion for networking, system administration, and cloud computing.
-In my free time, I build homelab projects to experiment with virtualization, self-hosted services, and network automation.
-</p>
+## 👨‍💻Hello there I'm Kabilan, an IT Specialist👋
+I'm currently pursuing my degree with a strong passion for networking, system administration, and cloud computing. In my free time, I build homelab projects to experiment with virtualization, self-hosted services, and network automation.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/yourinstagram">
-    <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:kabilankathiravan949@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20-blue?logo=gmail" alt="Email">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yourlinkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-e4405f?logo=instagram&logoColor=white)](https://www.instagram.com/yourinstagram)
+[![Email](https://img.shields.io/badge/Email-Contact%20-blue?logo=gmail)](mailto:kabilankathiravan949@gmail.com)
 
-<h2>💻 Personal Projects 🖥️</h2>
+## 💻 Past Projects 🖥️
 
+### • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" alt="AWS Logo" height="20" style="vertical-align: middle;"> Cloud Infrastructure Design
+I designed and implemented a complete cloud infrastructure on AWS to create a scalable and secure network architecture that supports both public and private services.
 <!--
 **kabilankks/kabilankks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
